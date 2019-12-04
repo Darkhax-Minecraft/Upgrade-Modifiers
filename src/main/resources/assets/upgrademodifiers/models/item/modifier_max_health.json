@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "upgrademodifiers:item/base",
+        "layer1": "upgrademodifiers:item/max_health"
+    }
+}

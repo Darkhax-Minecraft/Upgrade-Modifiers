@@ -1,0 +1,18 @@
+{
+  "item.upgrademodifiers.modifier_armor_toughness": "Armor Toughness Token",
+  "item.upgrademodifiers.modifier_attack_damage": "Attack Damage Token",
+  "item.upgrademodifiers.modifier_knockback_resistance": "Knockback Resistance Token",
+  "item.upgrademodifiers.modifier_luck": "Luck Token",
+  "item.upgrademodifiers.modifier_max_health": "Max Health Token",
+  "item.upgrademodifiers.modifier_movement_speed": "Movement Speed Token",
+  "item.upgrademodifiers.modifier_block_reach": "Block Reach Token",
+  "item.upgrademodifiers.modifier_armor": "Armor Token",
+  "item.upgrademodifiers.modifier_armor_toughness.desc": "Can be combined with any armor at an anvil to increase it's armor toughness by one.",
+  "item.upgrademodifiers.modifier_attack_damage.desc": "Can be combined with any mainhand item at an anvil to increase it's attack damage by 0.75 hearts.",
+  "item.upgrademodifiers.modifier_knockback_resistance.desc": "Can be combined with any chestplate item at an anvil to increase it's knockback resistance by 10%%.",
+  "item.upgrademodifiers.modifier_luck.desc": "Can be combined with any mainhand item at an anvil to increase it's luck by one.",
+  "item.upgrademodifiers.modifier_max_health.desc": "Can be combined with any chestplate item at an anvil to increase it's max health by one.",
+  "item.upgrademodifiers.modifier_movement_speed.desc": "Can be combined with any footwear at an anvil to increase it's movement speed by 10%%.",
+  "item.upgrademodifiers.modifier_block_reach.desc": "Can be combined with any mainhand item at an anvil to increase it's block break distance by 1.5 blocks.",
+  "item.upgrademodifiers.modifier_armor.desc": "Can be combined with any armor item at an anvil to increase it's armor amount by one."
+}
