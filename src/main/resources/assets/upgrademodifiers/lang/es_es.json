@@ -1,0 +1,18 @@
+{
+  "item.upgrademodifiers.modifier_armor_toughness": "Pieza de dureza de armadura",
+  "item.upgrademodifiers.modifier_attack_damage": "Pieza de daño de ataque",
+  "item.upgrademodifiers.modifier_knockback_resistance": "Pieza de resistencia a repulsión por bloqueo",
+  "item.upgrademodifiers.modifier_luck": "Pieza de suerte",
+  "item.upgrademodifiers.modifier_max_health": "Pieza de salud máxima",
+  "item.upgrademodifiers.modifier_movement_speed": "Pieza de velocidad de movimiento",
+  "item.upgrademodifiers.modifier_block_reach": "Pieza de área de alcance",
+  "item.upgrademodifiers.modifier_armor": "Pieza de defensa",
+  "item.upgrademodifiers.modifier_armor_toughness.desc": "Puede combinarse en un yunque con cualquier armadura para aumentar 1 su dureza.",
+  "item.upgrademodifiers.modifier_attack_damage.desc": "Puede combinarse en un yunque con cualquier objeto de mano para aumentar 0,75 corazones su daño.",
+  "item.upgrademodifiers.modifier_knockback_resistance.desc": "Puede combinarse en un yunque con cualquier peto para aumentar un 10%% su resistencia a repulsión por bloqueo.",
+  "item.upgrademodifiers.modifier_luck.desc": "Puede combinarse en un yunque con cualquier objeto de mano para aumentar 1 su suerte.",
+  "item.upgrademodifiers.modifier_max_health.desc": "Puede combinarse en un yunque con cualquier peto para aumentar 1 su salud máxima.",
+  "item.upgrademodifiers.modifier_movement_speed.desc": "Puede combinarse en un yunque con cualquier calzado para aumentar un 10%% su velocidad de movimiento.",
+  "item.upgrademodifiers.modifier_block_reach.desc": "Puede combinarse en un yunque con cualquier objeto de mano para aumentar 1,5 su área de alcance.",
+  "item.upgrademodifiers.modifier_armor.desc": "Puede combinarse en un yunque con cualquier armadura para aumentar 1 su defensa."
+}
